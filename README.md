@@ -60,7 +60,7 @@ Access the two micro service through the api gateway zuul-server (http://localho
 
 http://localhost:9090/api/account-service/account/login
 
-http://localhost:9090/api/node-service/node/1
+http://localhost:9090/api/feign-service/node/1
 
 Service Discovery through the URL :
 http://localhost:8761/
